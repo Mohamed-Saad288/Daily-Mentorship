@@ -10,8 +10,8 @@
 </ul>
 
 <h2>Routs</h2>
-|---|---|---|
 | HTTP Method | EndPoint | Description |
+|---|---|---|
 | GET |  api/v1/travels | Get All Travels |
 | GET | api/v1//travels/{travel:slug}/tours | Get Spacific Travel |
 | POST | api/v1/admin/tavels | only admin can Store a new travel |
