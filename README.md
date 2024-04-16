@@ -2,7 +2,7 @@
 <h2>Overview</h2> 
 
 <p>
-    This project is a travel platform of a. At the beginning, it was made for make travels and tours
+    This project is a travel platform , it was made for make travels and tours
 </p>
 <h2>Notes</h2>
 <ul>
