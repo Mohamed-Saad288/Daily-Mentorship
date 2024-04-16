@@ -15,7 +15,8 @@ class Tour extends Model
         'travel_id',
         'starting_date',
         'ending_date',
-        'price'
+        'price',
+        'name'
     ];
 
 }
