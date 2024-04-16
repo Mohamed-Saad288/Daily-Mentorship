@@ -6,7 +6,7 @@
 </p>
 <h2>Notes</h2>
 <ul>
-    <li>Auth with <span styale="color😠">sanctum</span></li>
+    <li>Auth with <span styale="background-color: grey">sanctum</span></li>
 </ul>
 
  <h2>Routs</h2>
