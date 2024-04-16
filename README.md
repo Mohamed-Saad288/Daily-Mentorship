@@ -9,7 +9,8 @@
     <li>Auth with <span styale="color😠">sanctum</span></li>
 </ul>
 
-<h2>Routs</h2>
+### Routs
+
 | HTTP Method | EndPoint | Description |
 |---|---|---|
 | GET |  api/v1/travels | Get All Travels |
@@ -21,7 +22,7 @@
 | POST | api/v1/login | Login user with sanctum |
 
 
-| API | Description | Link |
+| HTTP Method | EndPoint | Description |
 |---|---|---|
 | Skyscanner | Skyscanner for Business | [Go!](https://skyscanner.github.io/slate/#api-documentation) |
 | Sabre | Sabre® Dev Studio | [Go!](https://developer.sabre.com/docs/read/REST_APIs) |
